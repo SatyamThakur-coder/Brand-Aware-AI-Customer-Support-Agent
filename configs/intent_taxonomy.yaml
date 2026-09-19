@@ -1,0 +1,86 @@
+intents:
+  account_login_security:
+    description: Customer locked out of account, suspicious login notification, 2FA
+      issues, or compromised password.
+    escalation_notes: High-risk security/PII issue. Escalate immediately.
+    escalation_required: true
+    examples:
+    - I am locked out of my account and cannot reset password.
+    - Received an email about a login I didn't authorize.
+    - Can't sign into my Prime account.
+  cancellation_request:
+    description: Customer wants to cancel an order that hasn't shipped yet.
+    escalation_notes: Order cancellation requires immediate real-time account action.
+      Escalate.
+    escalation_required: true
+    examples:
+    - 'Please cancel order #405-12345'
+    - I accidentally placed an order, how do I cancel?
+    - Can you stop shipping my item?
+  delivery_issue:
+    description: Customer inquires about delayed, missing tracking, incorrect delivery
+      address, or package stuck in transit.
+    escalation_notes: Can auto-handle general status queries; escalate if order modification
+      or address change required.
+    escalation_required: false
+    examples:
+    - My package was supposed to arrive yesterday where is it?
+    - Tracking says delivered but I don't have my order.
+    - Why is my delivery taking so long?
+  information_request:
+    description: General questions about product specs, shipping options, warranty,
+      or store policies.
+    escalation_notes: Standard public policy question. Auto-handle if historical evidence
+      supports it.
+    escalation_required: false
+    examples:
+    - What is your holiday return window?
+    - Does Prime delivery work on Sundays?
+    - Where can I check warranty information?
+  missing_defective_item:
+    description: Customer received a broken, wrong, or incomplete item in their shipment.
+    escalation_notes: Requires replacement or return authorization linked to private
+      customer account. Escalate.
+    escalation_required: true
+    examples:
+    - My package arrived but the item inside was shattered.
+    - I ordered 2 items but only received 1.
+    - Sent me the wrong size shoe.
+  other_general:
+    description: Compliments, vague inquiries, feedback, or messages that do not fit
+      standard categories.
+    escalation_notes: General acknowledgement or escalate if unclear.
+    escalation_required: false
+    examples:
+    - Thanks for the great service!
+    - Hello
+    - Your customer service line is busy
+  payment_billing_issue:
+    description: Customer charged twice, incorrect billing amount, failed payment
+      method, or gift card issues.
+    escalation_notes: Sensitive financial/billing transaction. Escalate.
+    escalation_required: true
+    examples:
+    - Why was I charged twice for my order?
+    - My gift card balance was not applied.
+    - Payment failed but money was deducted from my account.
+  prime_membership_issue:
+    description: Inquiries about Prime subscription charges, benefits, cancellation
+      of free trial, or video streaming access.
+    escalation_notes: Auto-handle standard Prime cancellation steps; escalate if refund
+      of annual fee requested.
+    escalation_required: false
+    examples:
+    - Why did Prime automatically renew?
+    - How do I cancel my Prime trial?
+    - Prime video says I don't have access.
+  refund_return_request:
+    description: Customer requests a refund, asks about return status, or inquires
+      why a processed refund hasn't hit their bank.
+    escalation_notes: Requires account/transaction lookup for exact refund status.
+      Escalate.
+    escalation_required: true
+    examples:
+    - Where is my refund for order 123?
+    - How do I return a damaged item?
+    - I returned my package last week and still haven't received money back.

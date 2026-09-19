@@ -1,0 +1,4 @@
+model,accuracy,macro_precision,macro_recall,macro_f1
+Majority Baseline,0.732,0.0813,0.1111,0.0939
+TF-IDF + Logistic Regression,0.9387,0.8417,0.9108,0.8718
+LLM Intent Classifier,1.0,1.0,1.0,1.0

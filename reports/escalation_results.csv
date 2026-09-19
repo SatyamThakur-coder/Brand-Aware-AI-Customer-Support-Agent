@@ -1,0 +1,2 @@
+total_evaluated,auto_handled_count,escalated_count,auto_handling_coverage_pct,escalation_rate_pct,judge_avg_groundedness,judge_avg_helpfulness,judge_avg_relevance,judge_avg_brand_consistency,judge_avg_unsupported_claim_score,judge_avg_escalation_appropriateness,judge_overall_quality_score
+100,17,83,17.0,83.0,4.78,4.5,4.8,4.6,5.0,3.48,4.55

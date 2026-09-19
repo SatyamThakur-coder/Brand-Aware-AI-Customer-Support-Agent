@@ -1,0 +1,177 @@
+golden_id,conversation_id,customer_message,exact_match_in_train,near_match_in_train,golden_in_test_split,leakage_status
+gold_001,conv_69631,"[BRAND] Order# 407-8809404-0041923 why prime order taking 7 days after dispatch? It was mentioned next day delivery, now it's showing next Wednesday. Immediately rectify it. I want it today.",False,False,True,CLEAN_HOLDOUT
+gold_002,conv_65887,[BRAND] Have already cancelled order mentioned since there was no meaning in delivered after valuable time. We live in a very much time respecting world and I wish this can be improved later by [USER] and delivery team. Unfortunately nobody called up for reason of order cancellation.,False,False,True,CLEAN_HOLDOUT
+gold_003,conv_76001,"[BRAND] The item says “Delivery Date Pending”, I guessed you are out of stock.",False,False,True,CLEAN_HOLDOUT
+gold_004,conv_54367,[BRAND] It says its suppose to arrive today at 8 but no updates since 1 pm yesterday and it’s suppose to come USPS,False,False,True,CLEAN_HOLDOUT
+gold_005,conv_109780,"[BRAND] Oh, I always have issues with Amazon couriers. It's super sketch just to have a random dude show up with an Amazon package for you with no identifying logo. And why does it matter if it's 3rd party or not? It's still your platform, your responsibility.",False,False,True,CLEAN_HOLDOUT
+gold_006,conv_37577,[BRAND] ... Leaves a rather sour taste in the mouth of a customer who pays for prime delivery. Not even like my house is hard to find... Unimpressed,False,False,True,CLEAN_HOLDOUT
+gold_007,conv_39587,[BRAND] It says shipped with AMZL US.,False,False,True,CLEAN_HOLDOUT
+gold_008,conv_75871,"[BRAND] Didn't get the package today also, amazed. i waited till 7:15 pm though my office closes at 6 pm. Thank u very much",False,False,True,CLEAN_HOLDOUT
+gold_009,conv_234145,[BRAND] NO IT WAS SHIPPED TO ME THE OTHER ADDRESS I TRIED TO PUT IN WAS WIFES.,False,False,True,CLEAN_HOLDOUT
+gold_010,conv_78688,[BRAND] what is going on with your prime delivery over the last few orders I have done your supposed one day delivery has been 3 or 4 not sure why I pay for Amazon Prime when I don’t get what I pay for!,False,False,True,CLEAN_HOLDOUT
+gold_011,conv_89316,"If I hear “it’s not our fault your package is late” one more time from [USER], I’m done with #Prime. [BRAND]",False,False,True,CLEAN_HOLDOUT
+gold_012,conv_43675,"[BRAND] I have 3 packages, 2 of which has shipped since Nov 12th, and 1 shipped since Nov 16",False,False,True,CLEAN_HOLDOUT
+gold_013,conv_115898,[BRAND] In the latest incident I've been advised that the parcel had been 'accidentally' scanned as delivered and that it has been escalated with the delivery company. Previous time I was told it was being escaped as they had marked it as 'attempted delivery' when no one had been.,False,False,True,CLEAN_HOLDOUT
+gold_014,conv_236638,Delayed Delivery even though when the product was to arrive yesterday #amazonstrikesback #Amazon [BRAND] [USER],False,False,True,CLEAN_HOLDOUT
+gold_015,conv_62378,[BRAND] you will in 30 minutes. But that's irrelevant. It's showing that it shipped ground. That should be enough to reship. But no.,False,False,True,CLEAN_HOLDOUT
+gold_016,conv_132476,[BRAND] Theres also no valid reason at all listed in your delivery restrictions for these products. They aren't over 30kg. They don't include batteries and they aren't going to explode.,False,False,True,CLEAN_HOLDOUT
+gold_017,conv_120271,"[BRAND] due for delivery by 8pm, but not out for delivery yet? Really? I find one of these statements on the same screen hard to believe. [USER] [URL]",False,False,True,CLEAN_HOLDOUT
+gold_018,conv_22550,[USER] [BRAND] Order has not been picked up niether any update from Amazon or courier partner...,False,False,True,CLEAN_HOLDOUT
+gold_019,conv_134988,[BRAND] I was sent regular emails that it was with the courier and It will be delivered yesterday. That parcel is supposed to be on an international flight now to someone that is sick. The fact that I was lied to and made to wait all day for something that wasn't even out for delivery,False,False,True,CLEAN_HOLDOUT
+gold_020,conv_71882,"[BRAND] Too long to write but when I called it was more of a friendly inquiry and when I hung up I was downright confused, angered and don't know if or when my order will arrive at this point. Horrible call.",False,False,True,CLEAN_HOLDOUT
+gold_021,conv_89190,"[BRAND] I already emailed and got a copy paste response also listed the wrong product and then credited with £5, all i wanna know is where my package is.",False,False,True,CLEAN_HOLDOUT
+gold_022,conv_31834,"[BRAND] one order was suppose to be delivered by 30th october , still no tracking available for the same as on 1/11/17",False,False,True,CLEAN_HOLDOUT
+gold_023,conv_128774,"[BRAND] I have already send you all guys many times call, email, Fb post talk But i'm not getting proper response from your side. IN many link i have posted provide by [USER] So, plz don't make me fool return my money.",False,False,True,CLEAN_HOLDOUT
+gold_024,conv_8511,[BRAND] UPS supposed to pick up a return package yesterday and bring return label... never showed.,False,False,True,CLEAN_HOLDOUT
+gold_025,conv_234559,"[USER] [BRAND] if I have ordered a product in Prime and delivery is to be provided in one day, but isn't. I should get a refund...",False,False,True,CLEAN_HOLDOUT
+gold_026,conv_206045,"[BRAND] That, my dear [BRAND], is a lot of bull. Spoken to last mile delivery team. They're waiting for exec to return to work for an update 😂",False,False,True,CLEAN_HOLDOUT
+gold_027,conv_183251,[BRAND] it says ‘return requested’. I was told I have to wait until it’s back with you before I’m given a refund.,False,False,True,CLEAN_HOLDOUT
+gold_028,conv_78734,"[BRAND] Hey, I placed an order as a gift, the order says it was left in secure location but my friend hasn't received. No option to contact seller on my order page. What can I do to get refund/other one sent? Thanks",False,False,True,CLEAN_HOLDOUT
+gold_029,conv_180238,[BRAND] [USER] now you are having all the details with screenshots of conversation shared with you as told by you return my money comiited on 8t [URL],False,False,True,CLEAN_HOLDOUT
+gold_030,conv_129223,[BRAND] I don't know..... Coz 5 minutes back it was on hold and after i mailed to __email__ ...now i got message in my app that my refund is processed... Does it means now my account is unholded?,False,False,True,CLEAN_HOLDOUT
+gold_031,conv_107290,"Hi Jeff, I have purchased the wrong mobile set from amazon. Now, i want to return my mobile (order no 404-9391432-5602714). But amazon support team is saying that, they can't return. This mobile set is not useful for me. Please help me [USER] [USER] [BRAND]",False,False,True,CLEAN_HOLDOUT
+gold_032,conv_107290,"Hi Jeff, I have purchased the wrong mobile set from amazon. Now, i want to return my mobile (order no 404-9391432-5602714). But amazon support team is saying that, they can't return. This mobile set is not useful for me. Please help me [USER] [USER] [BRAND]",False,False,True,CLEAN_HOLDOUT
+gold_033,conv_231853,"[BRAND] Hi, I""ve talked to your customer executive and I'm not satisfied with the response. As they were saying it is not eligible for return.",False,False,True,CLEAN_HOLDOUT
+gold_034,conv_231853,"[BRAND] Hi, I""ve talked to your customer executive and I'm not satisfied with the response. As they were saying it is not eligible for return.",False,False,True,CLEAN_HOLDOUT
+gold_035,conv_19118,[BRAND] can u ready for return pick up i receive damage product,False,False,True,CLEAN_HOLDOUT
+gold_036,conv_166359,[BRAND] Ok i sent you an email please put the money back in the bank today it needs to go back in no later than today tjanks keep me posted,False,False,True,CLEAN_HOLDOUT
+gold_037,conv_78750,[BRAND] So I need to wait for the late item that I no longer need and return it? I needed to send it as a gift out of country n missed the cut off,False,False,True,CLEAN_HOLDOUT
+gold_038,conv_47873,[BRAND] All it shows is the company I ordered from...I'm assuming third party. When I checked their profile on return policy. It says they follow,False,False,True,CLEAN_HOLDOUT
+gold_039,conv_222644,"[BRAND] Issue is still not resolve fully. When I contacted the seller for refund, he asked me to contact you. Pls refund the full amount ASAP",False,False,True,CLEAN_HOLDOUT
+gold_040,conv_183257,[BRAND] my Prime delivery was due Sunday. Ordered Saturday. Then I was told today. Still no delivery. If it’s lost I won’t get refund!,False,False,True,CLEAN_HOLDOUT
+gold_041,conv_38120,My product Return was cancelled without any information. [BRAND] [USER] why??,False,False,True,CLEAN_HOLDOUT
+gold_042,conv_91393,[BRAND] How can you find my order of i didnt ordered it!! My brother ordered it for me and i received a defective one. And you are not listening at all. Provide me a refund!! This is going to be my last tweet if you are not going to solve [USER],False,False,True,CLEAN_HOLDOUT
+gold_043,conv_30520,[BRAND] Your return pickup for 407-4463037-6609940 has been scheduled for 02-Nov between 1-4PM. Why am I called that it will be picked in next 1 hr?,False,False,True,CLEAN_HOLDOUT
+gold_044,conv_30520,[BRAND] Your return pickup for 407-4463037-6609940 has been scheduled for 02-Nov between 1-4PM. Why am I called that it will be picked in next 1 hr?,False,False,True,CLEAN_HOLDOUT
+gold_045,conv_36567,[BRAND] Hi I’ve had a parcel go missing I’ve already informed Royal Mail but they said I have to let you know that’s it’s gone missing is order number 204-0980251-0540346 do I have to do anything your end or nah??,False,False,True,CLEAN_HOLDOUT
+gold_046,conv_236652,[BRAND] I can’t wait I had to buy one for the book store I was doing my hw and couldn’t complete it Bc there were missing pages,False,False,True,CLEAN_HOLDOUT
+gold_047,conv_205725,[BRAND] that's real nice and all but my book is still damaged 🙃,False,False,True,CLEAN_HOLDOUT
+gold_048,conv_78686,[BRAND] I know you are missing them and I want to know why as the whole idea of prime is for next day! The order I have placed tonight is expected to be delivered on Monday so definitely not next day! Last weeks were 4 days too it’s not good!,False,False,True,CLEAN_HOLDOUT
+gold_049,conv_57468,"[BRAND] Another day, another bent vinyl from [USER]. Do you have any quality control before sending out damaged products? [URL]",False,False,True,CLEAN_HOLDOUT
+gold_050,conv_224796,[USER] [BRAND] How many times I can avail 15% cashback through amazon Pay? Is it for only one order? Missing from T&C.,False,False,True,CLEAN_HOLDOUT
+gold_051,conv_224796,[USER] [BRAND] How many times I can avail 15% cashback through amazon Pay? Is it for only one order? Missing from T&C.,False,False,True,CLEAN_HOLDOUT
+gold_052,conv_107328,Second TV gone missing from [USER] this week [BRAND] awful service as an [USER] member [URL],False,False,True,CLEAN_HOLDOUT
+gold_053,conv_151974,[BRAND] Yes . And i resived amazon alert . That my acc is broken but it was me!!,False,False,True,CLEAN_HOLDOUT
+gold_054,conv_149190,[BRAND] Get this every time. Tried multiple locations. And been through Support with the first broken one [URL],False,False,True,CLEAN_HOLDOUT
+gold_055,conv_96868,[BRAND] I’m missing a product from my order?,False,False,True,CLEAN_HOLDOUT
+gold_056,conv_199967,[BRAND] My order # 406-3402224-5714720 got delivered on time but two items were missing in this one was Levi's jeans and another was us polo shirt,False,False,True,CLEAN_HOLDOUT
+gold_057,conv_231524,"[BRAND] Amazon prime free trial I mean, the program I want to watch is asking for payment. But will this continue after the trial",False,False,True,CLEAN_HOLDOUT
+gold_058,conv_175382,[BRAND] placed an order earlier with you but haven’t received confirmation yet you have taken payment. It’s a digital download so should have been instant....,False,False,True,CLEAN_HOLDOUT
+gold_059,conv_26880,"[BRAND] hi, I have a credit card charge for prime every month when I am not a subscriber. Can you help?",False,False,True,CLEAN_HOLDOUT
+gold_060,conv_138897,"[BRAND] 2 questions - 1) why can't I Send gift card from my Amazon pay balance?, and 2) how can I complaint against rude Amazon customer representative",False,False,True,CLEAN_HOLDOUT
+gold_061,conv_64092,"[BRAND] Not that I can find, but the payment is taken from my account? Can I DM you my email address?",False,False,True,CLEAN_HOLDOUT
+gold_062,conv_86063,[BRAND] Everything is correct as I've said the payment for another item is been taking as it is so that's not the issue,False,False,True,CLEAN_HOLDOUT
+gold_063,conv_191942,WTF! [BRAND] [USER] [USER] I've been waiting for this order for years! Using the same payment method - I have always used! WTF!,False,False,True,CLEAN_HOLDOUT
+gold_064,conv_52917,"[BRAND] I’m planning to in a few minutes, is there a phone number associated with credit card issues? I already spoke to my credit card issuer",False,False,True,CLEAN_HOLDOUT
+gold_065,conv_206831,[BRAND] why are you guys taking so long to charge my card?,False,False,True,CLEAN_HOLDOUT
+gold_066,conv_222629,"[BRAND] The order was bundled with Amazon Gift card that sent to me earlier. 100% Amazon's fault. Payment declined, can't cancel order. Stuck.",False,False,True,CLEAN_HOLDOUT
+gold_067,conv_135053,"[BRAND] Bank has the correct info, & I did put the correct billing address as mentioned with the bank, the fact that Particular Card is working with other online Portals is kind of weeee bit strange, I'd remove and try to add the card again...",False,False,True,CLEAN_HOLDOUT
+gold_068,conv_206008,"[BRAND] They closed my account for failure of verification of payment method, but somehow still managed to charge me for Amazon Prime",False,False,True,CLEAN_HOLDOUT
+gold_069,conv_218890,[BRAND] Can I give payment through Paytm to the supplier by choosing COD,False,False,True,CLEAN_HOLDOUT
+gold_070,conv_64100,[USER] [BRAND] Dear Cheats will you care to update about the below order status.. Your Amazon.in Order # 403-0745487-1392338.. I am getting no response from your end and I have already made payment from my end.. Stuck .. Not done..,False,False,True,CLEAN_HOLDOUT
+gold_071,conv_46548,[BRAND] I got a msg saying that my order has been cancelled for no specific reason and the payment has already been done [URL],False,False,True,CLEAN_HOLDOUT
+gold_072,conv_46548,[BRAND] I got a msg saying that my order has been cancelled for no specific reason and the payment has already been done [URL],False,False,True,CLEAN_HOLDOUT
+gold_073,conv_46548,[BRAND] I got a msg saying that my order has been cancelled for no specific reason and the payment has already been done [URL],False,False,True,CLEAN_HOLDOUT
+gold_074,conv_65891,[BRAND] [USER] getting very realistic looking spam emails about renewing prime. asking for bank details... I don't have prime and my credit card doesn't expire for 11 months... [URL],False,False,True,CLEAN_HOLDOUT
+gold_075,conv_128805,"[BRAND] So you saying you would charge ₹1000 for ₹50 material ? Common you are world leader in e-commerce, don't set a bad path for your followers #flipkart",False,False,True,CLEAN_HOLDOUT
+gold_076,conv_102929,"[BRAND] I mean, this is so massively dumb. Take out a feature, then don’t tell your support how to manage it. Simple question and instead I get the third degree on my billing address and wrong information based on where it was sent.",False,False,True,CLEAN_HOLDOUT
+gold_077,conv_67436,"[BRAND] I haven't. I've been told that I need to revise the payment method for two things I've ordered. When I go in to select my card, I just get ""We're sorry, but we encountered an error when processing your request. Please try again."" Now I'm stuck.",False,False,True,CLEAN_HOLDOUT
+gold_078,conv_142081,[BRAND] your link asks me to sign in but I can't - my password isn't working,False,False,True,CLEAN_HOLDOUT
+gold_079,conv_179213,[BRAND] ... problem in a chance remark. Your procedures need to point out NOT to use a password you’ve already used (not that I knew I had!).,False,False,True,CLEAN_HOLDOUT
+gold_080,conv_73489,"[BRAND] Yes, but I am not receiving access codes. I cannot login to the Hub website to check my data.",False,False,True,CLEAN_HOLDOUT
+gold_081,conv_141978,"[BRAND] How should I do this? I can't log into my account! Don't you get it?! I reset my password, but the new password is also incorrect.",False,False,True,CLEAN_HOLDOUT
+gold_082,conv_197586,[BRAND] But i cannot login in my account it says that my account is blocked/locked,False,False,True,CLEAN_HOLDOUT
+gold_083,conv_3733,"[BRAND] um, my account was locked as soon as I tried to login on desktop. I still haven’t received an email on how to get it unlocked...",False,False,True,CLEAN_HOLDOUT
+gold_084,conv_205088,[BRAND] My Amazon password works but Kindle doesn't recognize it!,False,False,True,CLEAN_HOLDOUT
+gold_085,conv_126802,[BRAND] estou tentando pagar com cartão de débito e ai a página de login carrega mas logo depois muda para a página inicial do banco (bb) e aí não consigo efetuar o pagamento,False,False,True,CLEAN_HOLDOUT
+gold_086,conv_140080,[BRAND] I did that and there was nothing. I even made sure to check that my email was verified and reset my password which went right into my inbox.,False,False,True,CLEAN_HOLDOUT
+gold_087,conv_10645,[BRAND] did amazon get hacked?,False,False,True,CLEAN_HOLDOUT
+gold_088,conv_126757,[BRAND] I think someone got into my account as I got this email and can no longer sign in. How can I change this? [URL],False,False,True,CLEAN_HOLDOUT
+gold_089,conv_160410,.[BRAND] I've talked to 10+ people on the phone over the last 2 months about my account. My account was hacked back in September and my account is now frozen and I'm unable to log in even after resetting my password multiple times. Nobody has any answers for me. RIDICULOUS,False,False,True,CLEAN_HOLDOUT
+gold_090,conv_51602,"[BRAND] Going to have to call support as it wont let me change my password, same thing happened less than two weeks ago.",False,False,True,CLEAN_HOLDOUT
+gold_091,conv_29948,[BRAND] I can't log in to my account to even do that. That's the issue. I have Zero access cause it's been hacked.,False,False,True,CLEAN_HOLDOUT
+gold_092,conv_118799,"[BRAND] I’ve changed my password another 3x using the link you sent, which is the same way I’ve been changing it. I’ll just shop elsewhere this weekend.",False,False,True,CLEAN_HOLDOUT
+gold_093,conv_179202,"[BRAND] I’m out and about, as I am everyday. 0800 numbers cost on a mobile. The problem is yours to fix, I simply changed my password!",False,False,True,CLEAN_HOLDOUT
+gold_094,conv_37625,"Help [BRAND]! My Amazon Prime biz acct was hacked. Someone reset email address, and I can't sign in to report it.",False,False,True,CLEAN_HOLDOUT
+gold_095,conv_120232,[BRAND] Why would Belgian customers pay for #Prime Video if we cannot order the Fire TV Stick and the Prime Video app doesn't support #Chromecast ? #fail #AmazonDE [URL] [URL],False,False,True,CLEAN_HOLDOUT
+gold_096,conv_61023,[BRAND] The problem is not the service itself the problem is that you don't communicate this is gonna happen! 😡 I lost 4 months of membership.,False,False,True,CLEAN_HOLDOUT
+gold_097,conv_61023,[BRAND] The problem is not the service itself the problem is that you don't communicate this is gonna happen! 😡 I lost 4 months of membership.,False,False,True,CLEAN_HOLDOUT
+gold_098,conv_232205,"Being a [USER] prime customer, why I'm not getting unlimited photo storage ??? [BRAND] [URL]",False,False,True,CLEAN_HOLDOUT
+gold_099,conv_132547,[BRAND] I’ve been a customer for years and I’m also a prime customer. I just want my deliveries on time. That’s all.,False,False,True,CLEAN_HOLDOUT
+gold_100,conv_152034,"[BRAND] Full story, cancelled Amazon Prime as don't use it. Received an email asking to confirm suspicious activity on account. Clicked link and it's asked for my bank details and address..is this correct practice?",False,False,True,CLEAN_HOLDOUT
+gold_101,conv_137060,"[BRAND] Oui cela peut se comprendre... par contre annoncer ""livré en 1 jour ouvré"" reste mensonger et ne correspond pas aux services de mon abonnement Prime. cc [USER]",False,False,True,CLEAN_HOLDOUT
+gold_102,conv_137071,[BRAND] Je suis Prime donc 1 jour ouvré. Cf messages précédents,False,False,True,CLEAN_HOLDOUT
+gold_103,conv_118831,"[BRAND] Im a prime member,had problem returning item last week this was resolved.item should’ve been del yesterday but now being told by 27th.",False,False,True,CLEAN_HOLDOUT
+gold_104,conv_162039,[BRAND] Et si je souhaite arrêter amazon prime ?,False,False,True,CLEAN_HOLDOUT
+gold_105,conv_174576,[BRAND] hello! I have somehow been charged for a membership to American Amazon Prime despite not wanting it or clicking it - please could I be refunded ASAP? This has happened before and it was resolved very quickly then.,False,False,True,CLEAN_HOLDOUT
+gold_106,conv_232723,[BRAND] How can I order one on prime today and get it tomorrow then? Yet my order won't be here until next week for the pre ordered copy,False,False,True,CLEAN_HOLDOUT
+gold_107,conv_111940,"[BRAND] Recibí un correo con una fecha de entrega, y de madrugada he recibido otro diciendo que la fecha era otra distinta a la estimada. Pero en ningún caso pone motivo. De lo que ""me quejo"" es de que siendo Amazon Prime, no tengo mi producto en 48 horas aquí.",False,False,True,CLEAN_HOLDOUT
+gold_108,conv_215227,[BRAND] i was charged $20 for a pirates of the caribbean movie (from amazon prime) that i never bought and have no interest in watching,False,False,True,CLEAN_HOLDOUT
+gold_109,conv_219003,[BRAND] The option wasn't available. I had selected 2-day prime shipping.,False,False,True,CLEAN_HOLDOUT
+gold_110,conv_34556,"[BRAND] My prime membership has expired & the one bundled with echo purchase has not become effective. So no prime vid, amazon now & fast shipping",False,False,True,CLEAN_HOLDOUT
+gold_111,conv_23209,"[BRAND] It notes its being sent back to the sender - which, if true, is totally unacceptable - not exactly #prime level service",False,False,True,CLEAN_HOLDOUT
+gold_112,conv_231819,"[BRAND] final reply frm [USER] customer screw u, v don't give a shit for ur pain. #prime customer [USER] [URL]",False,False,True,CLEAN_HOLDOUT
+gold_113,conv_121970,"[BRAND] Por Amazon Logistics, me dicen que ya mero pero no lo han reprogramado. No quiero trato preferente pero por algo pague prime para recibir mis pedidos al día siguiente o si no lo puedo recibir una reentrega al otro día :(",False,False,True,CLEAN_HOLDOUT
+gold_114,conv_5328,[BRAND] Trying to place an order this happened before and deleting and rentering my address fixed it but now it's across multiple prime accounts to the same address,False,False,True,CLEAN_HOLDOUT
+gold_115,conv_105077,"[BRAND] How do I prevent my wife, with whom I share a Household Prime Account, from getting email notifications of holiday gifts I purchase for her?",False,False,True,CLEAN_HOLDOUT
+gold_116,conv_22514,"[BRAND] Except that isn't the case. 1 Why not? 2 Why are you sending people to The Works? 3 Why is that book in Home & KItchen? 4 What do you suggest I say to Bonnier when I call their switchboard as you suggest, to find out what Amazon is up to? 5 What is the point of having Prime?",True,True,True,EXACT_TEXT_DUPLICATE
+gold_117,conv_229828,[BRAND] I can't remember but surely it should've been today or tomorrow? I can't even cancel. Absolutely ridiculous.,False,False,True,CLEAN_HOLDOUT
+gold_118,conv_230182,[BRAND] I just submitted the problem but if I do not hear anything by 1700 I am going to have to cancel my order and buy elsewhere sadly.Thank you.,False,False,True,CLEAN_HOLDOUT
+gold_119,conv_28423,[BRAND] [USER] it's the South Park game on PS4 coming out next week. I actually am not sure I want it but I can't see its price or cancel it,False,False,True,CLEAN_HOLDOUT
+gold_120,conv_192321,[BRAND] U please cancel my order,False,False,True,CLEAN_HOLDOUT
+gold_121,conv_192322,[BRAND] I am not able to cancel my order..plz help,False,False,True,CLEAN_HOLDOUT
+gold_122,conv_89215,[BRAND] [BRAND] Meanwhile my account is blocked and it stays blocked until I have send some creditcard statement which I refuse to do so and I want to cancel the order and get the amount from my giftcard back - Just that simple!,False,False,True,CLEAN_HOLDOUT
+gold_123,conv_233100,[BRAND] [USER] WTF placed an order on sale now seller says I need to cancel the order #unprofessional #saynotoamazon #frustated,False,False,True,CLEAN_HOLDOUT
+gold_124,conv_61041,[BRAND] even when i screwed up and forgot to cancel before my cc was charged for an additional year? (effective date was monday),False,False,True,CLEAN_HOLDOUT
+gold_125,conv_149238,[BRAND] hello if i get a firr stick. Is the £7.99 monthly a opt in and out like now tv is ? Im not committed to paying it and can cancel when ever?,False,False,True,CLEAN_HOLDOUT
+gold_126,conv_230178,[BRAND] It is a birthday present for tomorrow so need to know whether to cancel order or not.,False,False,True,CLEAN_HOLDOUT
+gold_127,conv_145808,[BRAND] been trying to cancel my amazon order which I ordered but has hasn’t even been dispatched. Your agent spent 10 minutes faffing on the phone only to say she can’t cancel it today as the windows gone but can cancel it on the sunday LOL. Please cancel my order,False,False,True,CLEAN_HOLDOUT
+gold_128,conv_164948,"[BRAND] Well, so much for that - failed to deliver again! Guess I’ll need to cancel it & reorder it to be delivered to my work place. #reallyannoyednow #amazonlogisticsfail",False,False,True,CLEAN_HOLDOUT
+gold_129,conv_121093,"[BRAND] Last update from the support team was to wait, have patience, or cancel my order. And that it takes longer than expected but don't know what exactly. I just know the initial reason why it wasn't sent faster but not why it still has such a delay",False,False,True,CLEAN_HOLDOUT
+gold_130,conv_13157,[BRAND] I have asked the customer care exec on phone to cancel the order. Don't want to waste any more of my time on this.,False,False,True,CLEAN_HOLDOUT
+gold_131,conv_21944,[USER] [BRAND] [USER] [USER] fire the india sales team. For last 6 days they schedule and cancel the pickup. 404-7148114-1043526,False,False,True,CLEAN_HOLDOUT
+gold_132,conv_21944,[USER] [BRAND] [USER] [USER] fire the india sales team. For last 6 days they schedule and cancel the pickup. 404-7148114-1043526,False,False,True,CLEAN_HOLDOUT
+gold_133,conv_177362,"[BRAND] But how to I tell if I have the right option? I’ve purchased the wrong movie twice so far, and while your customer service is wonderful I don’t want to be calling them every few minutes.",False,False,True,CLEAN_HOLDOUT
+gold_134,conv_14012,[BRAND] Don't be silly. Read the Tweet! I NEED 2 KNOW HOW U INSTRUCT CUSTOMERS. What is the plan? We've tenants who think they've the rite 2 store empty AF totes in the common area presumably awaiting PickUp 10+ days is 10 days longer that the small front hall common area can handle.,False,False,True,CLEAN_HOLDOUT
+gold_135,conv_205052,[BRAND] I already contacted via chat and was told to wait 24 hours. That was about 18 hours ago.,False,False,True,CLEAN_HOLDOUT
+gold_136,conv_179505,[BRAND] Hope the 48 hours means the 48 hours only this time..not more than that [USER],False,False,True,CLEAN_HOLDOUT
+gold_137,conv_141013,[USER] i wanted to purchase this [USER] watch but on product description it says : warranty not applicable in india if sold by AMAZON EXPORT SALES LLC now [BRAND] kindly explain the expression & why i should purchase via globle store if warranty is void in india [URL],False,False,True,CLEAN_HOLDOUT
+gold_138,conv_131776,[BRAND] Yes - The Echo Dot is discovering all of my Philips Hue bulbs twice. When I 'forget' them - they end up automatically redetecting them every 4 hours. See the initial picture. This is a known issue (see the reviews) and have contacted twice already but no one fixing it!,False,False,True,CLEAN_HOLDOUT
+gold_139,conv_96854,"[BRAND] Thank you. My order does not have the ""Get Help With Order"" option anywhere. I placed this order a few hours ago. Is it too soon?",False,False,True,CLEAN_HOLDOUT
+gold_140,conv_227778,"[BRAND] You guys at #AmazonIndia seems to b working frm shell, not knowing how to addres complaints, written abt ur blunder n u r keep asking qstns",False,False,True,CLEAN_HOLDOUT
+gold_141,conv_77541,[BRAND] So what is the reason in this case.,False,False,True,CLEAN_HOLDOUT
+gold_142,conv_80582,"[BRAND] I contacted you guys via the link above and the rep told me they contacted the carrier (UPS) and my packages would be delivered today. Unfortunately, here we are, 12 hours later.... still no packages.",False,False,True,CLEAN_HOLDOUT
+gold_143,conv_96855,I need to contact a seller I purchased something from but I can't figure out how to do that. [BRAND],False,False,True,CLEAN_HOLDOUT
+gold_144,conv_180703,[BRAND] Lol exactly my point. It’s not in [USER] ‘s policy to allow a customer to criticise & expresses his disappointment via a factual review.,False,False,True,CLEAN_HOLDOUT
+gold_145,conv_130259,"[BRAND] Haha, you guys need to believe that I know how to check my email :) Dont think the below counts as an explanation [URL]",False,False,True,CLEAN_HOLDOUT
+gold_146,conv_179188,[BRAND] What is the best way to do that for game preorder codes? I’m in the UK. Thanks for reaching out,False,False,True,CLEAN_HOLDOUT
+gold_147,conv_62367,[BRAND] Whatever the next step in your book of “how to” is I’ve already gone through it before when I ordered the EXACT. SAME. THING last time and it was lost.,False,False,True,CLEAN_HOLDOUT
+gold_148,conv_89319,[BRAND] Yeap I am contacting the carrier now. Thanks for the support. I have no problem with DHL with the exact same address. Not sure what is Aramex problem,False,False,True,CLEAN_HOLDOUT
+gold_149,conv_133846,[BRAND] What is the status? It's been two days since I have responded back to the emails. #Pathetic [USER] [USER] [USER],False,False,True,CLEAN_HOLDOUT
+gold_150,conv_210519,"[BRAND] [USER] what is tge issue with us? very disappointed,bcz a/c is suspended in this big sale.It's cheating ,plz don't work on it",False,False,True,CLEAN_HOLDOUT
+gold_151,conv_73486,[BRAND] Management of what? What is HR?,False,False,True,CLEAN_HOLDOUT
+gold_152,conv_226658,"[USER] [BRAND] warranty by manufacturer, but no contact details of manufacturer! RUBBISH Amazon deals for Chor companies [URL]",False,False,True,CLEAN_HOLDOUT
+gold_153,conv_235666,[BRAND] I have no idea how to remove stuff from my cart before checkout. wtf is this so hard??,False,False,True,CLEAN_HOLDOUT
+gold_154,conv_206690,"[BRAND] the beta runs for 2 days, and now I’ve already lost one as I have work in a few hours #BattlefrontII it’s advertised on ur site",False,False,True,CLEAN_HOLDOUT
+gold_155,conv_205981,[BRAND] [BRAND] and what about this one 👉order id #4__credit_card__,False,False,True,CLEAN_HOLDOUT
+gold_156,conv_205981,[BRAND] [BRAND] and what about this one 👉order id #4__credit_card__,False,False,True,CLEAN_HOLDOUT
+gold_157,conv_205981,[BRAND] [BRAND] and what about this one 👉order id #4__credit_card__,False,False,True,CLEAN_HOLDOUT
+gold_158,conv_179426,[BRAND] I'll try this and make an inform as soon,False,False,True,CLEAN_HOLDOUT
+gold_159,conv_232401,En fait #Amazonprime c'est surtout de la merde non? Ça existe un livreur qui fait son taf à Paris ou c'est une utopie? [BRAND] [USER],False,False,True,CLEAN_HOLDOUT
+gold_160,conv_76053,[BRAND] It was originally meant to be 28th and then changed to 29th and last night was changed again.,False,False,True,CLEAN_HOLDOUT
+gold_161,conv_77589,"[BRAND] No, doveva essere spedito il 28 novembre. Come posso fare se non riesco a essere presente alla consegna?",False,False,True,CLEAN_HOLDOUT
+gold_162,conv_191492,[BRAND] Sure...,False,False,True,CLEAN_HOLDOUT
+gold_163,conv_169575,[BRAND] wann wird pretty Little liars Staffel 7 auf deutsch erscheinen,False,False,True,CLEAN_HOLDOUT
+gold_164,conv_182724,"[BRAND] Eu não tenho um, tenho vários. Namorado de aluguel, Escola Noturna, Trilogia o Legado de Syrena, Até eu te encontrar da [USER]",False,False,True,CLEAN_HOLDOUT
+gold_165,conv_140953,[BRAND] Die 3 für 2 Aktion für Vinyl. Hatte schon den ganzen Warenkorb voll...,False,False,True,CLEAN_HOLDOUT
+gold_166,conv_206956,[BRAND] Yeah,True,True,True,EXACT_TEXT_DUPLICATE
+gold_167,conv_235774,[BRAND] 😑 [URL],False,True,True,NEAR_DUPLICATE
+gold_168,conv_21464,[BRAND] No reply from your hand yet,False,False,True,CLEAN_HOLDOUT
+gold_169,conv_21464,[BRAND] No reply from your hand yet,False,False,True,CLEAN_HOLDOUT
+gold_170,conv_18729,[BRAND] [URL],True,True,True,EXACT_TEXT_DUPLICATE
+gold_171,conv_206860,[BRAND] I've done all those things - it's not anywhere!,False,False,True,CLEAN_HOLDOUT
+gold_172,conv_230174,[BRAND] [USER] Waiting for revert. [URL],True,True,True,EXACT_TEXT_DUPLICATE
+gold_173,conv_64222,"[BRAND] Your assistance cannot cannect me, Can't cannect on costumer care. Facing so many problem, Than I using social media platform, tell your assistant to contact me, on call or email",False,False,True,CLEAN_HOLDOUT
+gold_174,conv_77383,[BRAND] Ok. De todas formas antes les escribí para darles una nueva dirección y me ponen que espere respuesta en dos días. Cómo viene el finde será el lunes,False,False,True,CLEAN_HOLDOUT
+gold_175,conv_182837,"[BRAND] poor customer service over phone, cannot contact carrier. Cannot even locate my item 26hrs... Cannot escalate locally.... [URL]",False,False,True,CLEAN_HOLDOUT
+gold_176,conv_222829,[BRAND] Ya y nada,False,False,True,CLEAN_HOLDOUT

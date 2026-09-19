@@ -1,0 +1,32 @@
+# LLM Judge Evaluation Rubric (1-5 Scale)
+
+dimensions:
+  groundedness:
+    1: "Mostly unsupported by retrieved evidence; contains fabricated facts."
+    3: "Partially supported; contains minor extrapolation beyond evidence."
+    5: "Fully supported and strictly grounded in historical evidence."
+  
+  helpfulness:
+    1: "Does not address customer concern or gives irrelevant response."
+    3: "Partially helpful; provides general assistance but misses key detail."
+    5: "Directly addresses customer concern with clear, actionable support."
+  
+  relevance:
+    1: "Completely off-topic."
+    3: "Somewhat relevant but includes unnecessary information."
+    5: "Highly relevant and concise."
+
+  brand_consistency:
+    1: "Unprofessional or inconsistent tone."
+    3: "Acceptable tone but lacks brand persona."
+    5: "Polite, empathetic, professional customer support tone matching AmazonHelp."
+
+  unsupported_claims:
+    1: "Makes explicit false promises (e.g. refund dates, compensation, discounts)."
+    3: "Vague policy claims without explicit promises."
+    5: "Zero unsupported claims or unverified policy promises."
+
+  escalation_appropriateness:
+    1: "Escalated a simple safe FAQ or auto-handled a high-risk security/billing issue."
+    3: "Suboptimal decision but does not violate safety."
+    5: "Appropriate safety decision matching policy rules."

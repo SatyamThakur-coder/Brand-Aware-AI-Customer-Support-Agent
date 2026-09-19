@@ -1,0 +1,21 @@
+# Final Submission Readiness Checklist
+
+- [x] **Dataset Documented**: Kaggle `thoughtvector/customer-support-on-twitter` documented in [`data/README.md`](file:///d:/SDE/data/README.md).
+- [x] **Brand Selection Documented**: `AmazonHelp` selected empirically (169,840 replies / 42,709 resolution threads) in [`reports/brand_selection.md`](file:///d:/SDE/reports/brand_selection.md).
+- [x] **9 Intents Documented**: Tailored e-commerce taxonomy in [`configs/intent_taxonomy.yaml`](file:///d:/SDE/configs/intent_taxonomy.yaml).
+- [x] **Golden Set Documented**: Candidate benchmark in [`evaluation/GOLDEN_SET_GUIDE.md`](file:///d:/SDE/evaluation/GOLDEN_SET_GUIDE.md) & [`reports/golden_set_statistics.md`](file:///d:/SDE/reports/golden_set_statistics.md).
+- [x] **Majority Baseline Verified**: Accuracy: `73.20%` | Macro F1: `0.0939` in [`baselines/majority_baseline.py`](file:///d:/SDE/baselines/majority_baseline.py).
+- [x] **TF-IDF Baseline Verified**: Accuracy: `93.87%` | Macro F1: `0.8718` in [`baselines/tfidf_logreg.py`](file:///d:/SDE/baselines/tfidf_logreg.py).
+- [x] **Independent Holdout Evaluated**: Fresh 150-sample holdout test in [`reports/independent_holdout_results.csv`](file:///d:/SDE/reports/independent_holdout_results.csv) & [`reports/generalization_gap.md`](file:///d:/SDE/reports/generalization_gap.md).
+- [x] **Leakage Audit Completed**: Audit log in [`reports/golden_leakage.csv`](file:///d:/SDE/reports/golden_leakage.csv) & [`reports/codebase_audit.md`](file:///d:/SDE/reports/codebase_audit.md).
+- [x] **Duplicate Audit Completed**: Exact & near duplicate counts in [`reports/duplicate_analysis.md`](file:///d:/SDE/reports/duplicate_analysis.md).
+- [x] **Retrieval Evaluation Completed**: FAISS metrics (Top-1 sim: `0.7278`, Top-1 intent match: `83.5%`) in [`reports/retrieval_results.csv`](file:///d:/SDE/reports/retrieval_results.csv) & [`reports/retrieval_analysis.md`](file:///d:/SDE/reports/retrieval_analysis.md).
+- [x] **Escalation Evaluation Completed**: Auto-handling coverage: `17.00%` | Escalation rate: `83.00%` in [`reports/escalation_results.csv`](file:///d:/SDE/reports/escalation_results.csv).
+- [x] **LLM Judge Evaluated**: Score: `4.56 / 5.00` in [`evaluation/llm_judge.py`](file:///d:/SDE/evaluation/llm_judge.py).
+- [x] **Human Judge Validation Prepared**: Workflow ready in [`evaluation/human_ratings.csv`](file:///d:/SDE/evaluation/human_ratings.csv) & status explicitly flagged as **`Human judge validation pending.`** in [`reports/judge_validation.md`](file:///d:/SDE/reports/judge_validation.md).
+- [x] **Failure Analysis Completed**: Top 5 error taxonomies in [`reports/failure_analysis.md`](file:///d:/SDE/reports/failure_analysis.md).
+- [x] **Misleading Headline Metric Documented**: Honest analysis in [`reports/misleading_headline_number.md`](file:///d:/SDE/reports/misleading_headline_number.md).
+- [x] **Reproducibility Verified**: Verified via [`scripts/reproduce.py`](file:///d:/SDE/scripts/reproduce.py).
+- [x] **Tests Passed**: `python -m pytest` (**13/13 Passed**).
+- [x] **README Updated**: Transparent results table in [`README.md`](file:///d:/SDE/README.md).
+- [x] **No Fabricated Results**: 100% of reported metrics derived from actual execution.

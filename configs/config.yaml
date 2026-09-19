@@ -1,0 +1,19 @@
+brand:
+  display_name: AmazonHelp
+  name: AmazonHelp
+data:
+  index_dir: data/index
+  processed_dir: data/processed
+  raw_path: data/raw/twcs/twcs.csv
+  splits_dir: data/splits
+escalation:
+  confidence_threshold: 0.8
+  min_retrieval_similarity: 0.45
+  require_grounded_evidence: true
+llm:
+  model: gpt-4o-mini
+  provider: mock
+  temperature: 0.0
+retrieval:
+  embedding_model: all-MiniLM-L6-v2
+  top_k: 5

@@ -1,0 +1,7 @@
+confidence_threshold,auto_handling_coverage_pct,escalation_rate_pct,avg_judge_overall_quality
+0.6,90.0,10.0,4.55
+0.7,22.0,78.0,4.55
+0.8,17.0,83.0,4.55
+0.85,17.0,83.0,4.55
+0.9,17.0,83.0,4.55
+0.95,0.0,100.0,4.55
