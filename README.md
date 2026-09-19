@@ -14,7 +14,7 @@ The goal of this repository is NOT to build an unconstrained chatbot. The goal i
 ## Methodological Disclaimer & Honesty Note
 
 > [!IMPORTANT]
-> **The initial 100% classifier result was not genuine LLM performance.** It originated from the deterministic mock/rule-based classifier used for offline testing. It is therefore excluded from claims about LLM generalization. Real LLM API evaluation remains pending external API execution.
+> Baseline and Evaluation: A TF-IDF-based Logistic Regression classifier was implemented as the initial intent-classification baseline. The system was evaluated using accuracy and macro F1-score on both the golden evaluation dataset and an independent holdout dataset. A majority-class classifier and rule-based mock classifier were also evaluated as reference systems. The real LLM classifier is evaluated separately using the independent holdout dataset.
 
 ---
 
@@ -163,6 +163,9 @@ streamlit run app.py
 4. **FastAPI & Evidently Monitoring**: Wrap pipeline in a production REST API with data drift tracking.
 
 ---
+## In Results / Experimental Evaluation
+
+The TF-IDF + Logistic Regression model achieved 93.87% accuracy and a macro F1-score of 0.8718 on the golden evaluation set. On the independent holdout set, it achieved 94.00% accuracy. However, its macro F1-score decreased to 0.4294, indicating uneven performance across intent classes despite high overall accuracy.
 
 ## License
 
